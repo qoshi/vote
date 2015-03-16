@@ -1,1 +1,2 @@
-a vote system
+a vote system written by go
+
